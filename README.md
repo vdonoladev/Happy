@@ -6,7 +6,7 @@
 
 <h2 align="center">About 📖</h2>
 
-<p>O objetivo do projeto é apresentar as pessoas quais são os orfanatos existentes na sua região. Incentivar as pessoas a visitarem os orfanatos da sua região e facilitar o controle de visitas através de agendamentos pelo sistema. Fazendo com que fique bem organizado e melhore a vida das crianças que vivem nos orfanatos.</p>
+<p>The aim of the project is to introduce people to the existing orphanages in their region. Encourage people to visit orphanages in your region and facilitate visit control through scheduling through the system. Making it well organized and improving the lives of children living in orphanages.</p>
 
 ---
 
