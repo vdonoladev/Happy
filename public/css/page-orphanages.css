@@ -5,8 +5,8 @@
 }
 
 aside {
-  width: clamp(24rem, 25vw 44rem);
-  background: linear-gradient(329.54deg, #15b6d6 0%, #15d6d6 100%);
+  width: clamp(24rem, 25vw, 44rem);
+  background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
   padding: clamp(3rem, 5vw, 8rem);
   display: flex;
   flex-direction: column;
@@ -15,7 +15,7 @@ aside {
 
 aside h2 {
   margin-top: 6.4rem;
-  font: 800 clamp(2rem, 5vw, 3.6rem) / 1.1 "Nunito", sans-serif;
+  font: 800 clamp(3rem, 5vw, 8rem) 3.6rem/1.1 "Nunito", sans-serif;
 }
 
 aside p {
@@ -32,8 +32,6 @@ aside footer p {
   height: 100%;
   animation-delay: 200ms;
 }
-
-/* button */
 
 a.create-orphanage {
   position: absolute;
