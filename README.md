@@ -30,3 +30,21 @@
 
 ---
 
+<h2 align="center">How to Use 🤔</h2>
+
+   ```
+   - Clone this repository:
+   $ git clone https://github.com/vdonoladev/Happy
+	 
+   - Enter in directory:
+   $ cd Happy
+
+   - For install dependencies:
+   $ npm install
+
+   - Execute application:
+   $ npm start
+
+   - Open your browser in:
+   http://localhost:5500/
+   ```
