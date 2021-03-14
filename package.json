@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felipecastrosales/Happy.git"
+    "url": "git+https://github.com/vdonoladev/Happy.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/felipecastrosales/Happy/issues"
+    "url": "https://github.com/vdonoladev/Happy/issues"
   },
-  "homepage": "https://github.com/felipecastrosales/Happy#readme",
+  "homepage": "https://github.com/vdonoladev/Happy#readme",
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.1",
